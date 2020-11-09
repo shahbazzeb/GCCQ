@@ -1,0 +1,2 @@
+# GCCQ
+GCC questions solved
